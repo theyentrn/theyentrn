@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theyentrn
-- 👀 I’m interested in everything but you 
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning english
-- 💞️ I’m looking for someone I dunno 
 
 <!---
 theyentrn/theyentrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
